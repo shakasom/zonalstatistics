@@ -1,4 +1,4 @@
-# zonalstatistics
+# Zonal Statistics
 Python - Rasterio and Geopandas to calculate Zonal Statistics
 
 
